@@ -1,0 +1,301 @@
+Age,Income,Credit_Score,Num_Transactions,Avg_Transaction_Value,Loan_Repayment_History,Account_Type,Region,Class
+37,12436,743,135,846.86,Bad,Current,West,Risky
+33,91713,733,24,115.21,Bad,Corporate,East,Standard
+31,31754,356,182,2136.47,Good,Investment,South,Risky
+33,65194,477,167,4891.97,Bad,Corporate,Central,Standard
+66,29544,592,177,5536.01,Bad,Savings,East,Risky
+60,65180,345,94,2084.35,Average,Current,East,Standard
+66,68295,469,32,3479.66,Good,Corporate,Central,Standard
+68,17638,570,110,2959.41,Bad,Savings,North,Risky
+50,70715,716,145,2885.45,Bad,Corporate,Central,Standard
+47,74409,438,230,1634.81,Bad,Corporate,West,Standard
+29,88106,546,271,971.87,Average,Current,Central,Standard
+32,118759,447,37,1392.89,Average,Investment,North,Standard
+35,22157,529,134,406.22,Average,Investment,Central,Standard
+45,50565,673,234,1402.95,Bad,Savings,East,Standard
+40,74996,379,159,84.22,Average,Savings,South,Standard
+31,118620,364,37,4398.26,Bad,Savings,East,Standard
+47,70888,387,149,2228.3,Good,Current,South,Standard
+50,61095,387,28,6812.55,Bad,Investment,Central,Standard
+62,69947,503,143,1372.15,Average,Savings,West,Standard
+32,92122,681,75,2433.88,Good,Savings,Central,Standard
+24,75880,775,144,2517.73,Bad,Corporate,North,High Value
+32,9507,838,228,78.99,Good,Corporate,Central,Standard
+69,108134,513,63,5877.67,Good,Savings,South,High Value
+59,48988,373,268,243.32,Good,Corporate,East,Standard
+63,103421,360,183,6582.46,Bad,Corporate,West,Standard
+55,21865,842,260,6246.68,Average,Corporate,Central,Standard
+63,107591,518,267,3757.94,Bad,Current,Central,Standard
+61,32213,311,168,3814.3,Average,Savings,East,Standard
+28,60954,714,258,4583.37,Bad,Savings,West,Standard
+46,62450,331,226,2721.61,Bad,Corporate,Central,Standard
+48,9477,459,32,4537.61,Bad,Current,Central,Risky
+42,67222,536,213,332.48,Average,Corporate,South,Standard
+69,11533,480,49,397.25,Bad,Current,South,Risky
+41,54395,640,209,3211.47,Good,Savings,North,Standard
+36,28396,757,28,3856.36,Bad,Corporate,East,Standard
+19,17755,379,38,6216.97,Good,Savings,West,High Value
+39,5865,772,99,750.53,Average,Current,Central,Standard
+37,16173,411,172,5762.08,Average,Investment,Central,Standard
+50,63905,591,16,1486.13,Bad,Current,North,Standard
+25,43097,682,55,2770.7,Bad,Investment,Central,Standard
+42,38371,316,225,2229.88,Bad,Savings,East,Risky
+63,109060,792,45,2813.08,Good,Savings,North,High Value
+26,16254,630,66,1070.46,Average,Corporate,East,Standard
+51,9018,785,196,3534.92,Good,Investment,North,Standard
+40,10192,705,141,5615.47,Good,Current,Central,High Value
+22,7015,416,22,3101.91,Bad,Savings,North,Risky
+42,113154,414,93,3444.48,Bad,Investment,South,Standard
+25,73916,848,241,5944.4,Good,Current,West,High Value
+33,33343,846,236,4948.29,Good,Investment,Central,High Value
+65,74306,635,53,3443.37,Bad,Current,West,Standard
+62,10829,635,137,1818.72,Bad,Current,Central,Standard
+69,39381,446,271,6196.79,Good,Current,West,High Value
+32,116451,421,40,4047.6,Bad,Current,South,Standard
+18,86081,380,97,1563.61,Bad,Investment,West,Standard
+39,23263,674,182,1898.46,Good,Investment,North,Standard
+20,108676,362,127,5625.87,Good,Corporate,West,High Value
+55,58260,803,228,328.14,Average,Investment,Central,Standard
+31,48306,748,85,6944.8,Good,Investment,East,High Value
+53,96211,727,255,929.85,Bad,Corporate,West,Standard
+35,63418,726,208,5576.56,Good,Investment,West,High Value
+64,95898,720,214,2775.53,Good,Current,West,Standard
+58,5148,621,99,3455.67,Good,Savings,Central,Standard
+35,6754,465,48,6166.94,Average,Savings,West,Risky
+20,31745,760,200,2902.12,Average,Corporate,Central,Standard
+27,77914,758,257,3771.71,Bad,Investment,Central,High Value
+66,116895,488,177,364.11,Average,Investment,East,Standard
+56,60833,763,244,36.39,Good,Corporate,North,High Value
+64,25140,678,122,1728.7,Average,Savings,Central,Standard
+18,79907,301,170,4770.47,Good,Current,South,High Value
+44,65653,663,135,866.43,Average,Investment,West,Standard
+44,97535,371,58,814.06,Average,Corporate,South,Standard
+28,66521,726,192,2888.51,Average,Current,West,Standard
+66,83315,469,267,4541.9,Good,Corporate,East,High Value
+22,36075,504,259,4990.26,Average,Corporate,Central,Standard
+24,35697,636,94,1265.59,Good,Corporate,North,Standard
+36,59544,771,124,575.53,Good,Savings,Central,Standard
+46,14795,494,40,6583.97,Bad,Savings,West,Risky
+32,69555,574,253,1839.45,Average,Corporate,North,Standard
+52,57204,306,6,5976.36,Bad,Investment,Central,Standard
+64,108996,477,215,6047.17,Bad,Current,North,Standard
+54,74754,541,68,5412.21,Good,Investment,West,High Value
+29,69860,502,68,1198.46,Average,Savings,East,Standard
+47,108107,842,80,5756.17,Good,Current,East,High Value
+37,56529,761,29,5389.37,Good,Corporate,Central,High Value
+54,16672,379,72,4185.13,Average,Investment,South,Risky
+20,59238,822,261,2373.67,Good,Investment,West,Standard
+26,101578,716,88,1852.31,Average,Corporate,Central,Standard
+58,40950,683,207,870.79,Average,Investment,Central,Standard
+56,16009,690,212,3578.1,Good,Savings,East,Standard
+43,52096,425,265,4105.12,Good,Corporate,North,High Value
+19,24544,793,292,2528.19,Bad,Investment,West,Standard
+40,60728,346,206,3338.01,Good,Corporate,North,Standard
+40,34381,775,76,2557.33,Average,Current,West,Standard
+38,30287,763,287,4494.22,Bad,Corporate,South,Standard
+33,69610,422,46,6310.79,Average,Investment,East,Standard
+26,73122,773,109,1164.16,Bad,Savings,South,High Value
+30,73184,433,199,2682.23,Good,Corporate,Central,Standard
+45,45081,322,209,1003.26,Good,Corporate,East,Standard
+44,88637,534,153,4382.11,Good,Investment,Central,High Value
+68,50312,358,9,5107.52,Average,Savings,South,Standard
+69,92228,463,156,6524.75,Bad,Savings,West,Standard
+34,77943,515,260,1966.53,Average,Current,Central,Standard
+55,87790,482,76,6652.47,Bad,Current,North,Standard
+53,85770,389,256,461.57,Good,Investment,West,Standard
+18,57726,610,130,4229.04,Average,Savings,West,Standard
+35,27211,556,66,418.79,Good,Savings,South,Risky
+68,34480,832,227,6258.54,Average,Current,South,Standard
+26,52780,832,162,3718.07,Good,Current,East,Standard
+30,62138,351,14,4692.05,Average,Investment,East,Standard
+57,95382,637,231,5824.39,Average,Savings,North,Standard
+62,47503,470,194,1069.17,Bad,Corporate,West,Standard
+32,62893,366,29,289.37,Good,Current,North,Standard
+60,51193,599,295,6154.59,Bad,Investment,North,Standard
+61,119002,531,219,2218.23,Bad,Savings,South,Standard
+63,66358,367,146,920.27,Good,Savings,North,Standard
+21,85857,805,258,3289.86,Average,Current,North,High Value
+50,83182,327,291,4196.18,Bad,Investment,Central,Standard
+41,27117,350,298,236.17,Good,Corporate,East,Risky
+53,64056,559,142,1938.77,Average,Current,East,Standard
+68,63706,483,234,248.94,Bad,Investment,West,Risky
+58,75429,322,114,2953.94,Bad,Savings,East,Standard
+27,14476,428,89,6267.8,Bad,Corporate,West,Risky
+53,87806,590,207,6878.91,Average,Investment,Central,Standard
+37,60006,800,163,4466.59,Bad,Corporate,East,High Value
+58,92238,485,83,1148.23,Average,Investment,Central,Standard
+62,74918,778,76,6342.83,Bad,Investment,East,High Value
+61,68155,791,160,3623.41,Good,Investment,East,High Value
+28,72321,812,4,1093.17,Bad,Investment,Central,High Value
+29,50798,366,77,6453.65,Good,Corporate,North,High Value
+35,82271,766,90,5307.13,Good,Current,North,High Value
+47,35177,584,86,5127.3,Good,Corporate,North,High Value
+61,101248,716,269,4970.08,Average,Investment,North,Standard
+65,87215,399,103,1418.37,Good,Corporate,East,Standard
+54,48013,488,174,1492.83,Bad,Corporate,South,Standard
+37,105901,687,53,4824.29,Average,Corporate,Central,Standard
+42,87600,540,210,1553.66,Good,Investment,South,Standard
+29,101099,716,94,3081.93,Average,Corporate,South,Standard
+38,58450,475,222,5478.37,Average,Savings,West,Standard
+42,103628,686,8,5491.99,Average,Investment,North,Standard
+28,52928,770,52,3183.77,Bad,Corporate,East,Standard
+26,97403,532,76,5549.49,Good,Savings,North,High Value
+67,50382,751,205,5873.58,Average,Corporate,North,Standard
+42,104290,576,111,4590.33,Average,Current,South,Standard
+52,90038,528,164,1614.41,Average,Corporate,West,Standard
+69,5760,470,278,1932.6,Good,Corporate,North,Risky
+49,29142,512,26,2217.59,Average,Current,Central,Risky
+66,115189,581,69,835.29,Average,Investment,Central,Standard
+31,112532,340,217,1926.65,Bad,Current,North,Standard
+18,22290,421,188,1482.44,Good,Investment,South,Risky
+34,76035,526,123,3198.19,Bad,Current,South,Standard
+42,5364,593,18,6360.89,Good,Corporate,East,High Value
+25,61921,566,256,749.27,Good,Corporate,West,Standard
+22,24797,840,295,5047.47,Good,Investment,South,High Value
+22,111331,750,21,4817.24,Bad,Investment,East,High Value
+58,37535,748,39,688.36,Bad,Savings,Central,Standard
+52,51300,360,37,6459.56,Bad,Savings,Central,Standard
+36,52176,801,47,3987.94,Bad,Corporate,Central,Standard
+40,21105,446,182,2558.8,Average,Corporate,North,Standard
+26,12939,633,74,5300.64,Average,Savings,West,Standard
+47,84472,441,208,1816.41,Average,Savings,East,Standard
+67,47029,343,182,4860.7,Good,Investment,West,High Value
+33,20863,443,106,297.18,Average,Current,North,Standard
+50,83097,632,187,5879.07,Good,Investment,East,High Value
+19,15447,796,263,3148.23,Bad,Savings,East,Standard
+31,101160,695,85,4464.12,Good,Corporate,South,High Value
+63,51940,354,136,1564.24,Good,Savings,West,Standard
+18,115182,606,94,4745.97,Average,Corporate,West,Standard
+43,82947,722,244,5410.24,Bad,Corporate,South,Standard
+42,90001,716,89,3323.03,Bad,Corporate,Central,Standard
+33,108752,624,58,4331.73,Average,Corporate,North,Standard
+32,24642,379,27,3205.15,Bad,Current,West,Risky
+43,101798,330,71,6260.76,Bad,Savings,South,Standard
+64,100899,411,269,3495.13,Bad,Investment,East,Standard
+61,72643,771,23,5895.82,Average,Corporate,South,High Value
+33,12928,373,111,5613.44,Bad,Corporate,Central,Risky
+31,53002,778,299,2885.32,Good,Investment,North,Standard
+46,89853,686,55,1625.99,Good,Investment,Central,Standard
+41,119614,732,222,2854.45,Bad,Corporate,East,Standard
+64,30017,711,119,5787.0,Average,Investment,East,Standard
+32,84064,766,178,1608.88,Average,Investment,East,High Value
+36,18313,547,287,3680.57,Average,Current,East,Standard
+25,6559,419,280,5646.56,Bad,Investment,South,Risky
+51,55893,366,188,2487.27,Bad,Savings,East,Standard
+19,20167,626,65,4502.62,Good,Savings,East,High Value
+44,85879,769,297,1734.51,Average,Savings,South,High Value
+27,43598,792,248,782.77,Good,Corporate,East,Standard
+52,12523,585,75,5564.8,Good,Savings,Central,High Value
+40,54777,611,136,710.8,Average,Current,Central,Standard
+66,33439,608,163,1914.24,Bad,Savings,West,Standard
+25,86060,396,232,5988.66,Bad,Corporate,Central,Standard
+45,18285,412,254,2438.36,Good,Current,North,Risky
+40,15973,755,293,6811.86,Good,Savings,North,High Value
+21,27694,762,169,6858.55,Good,Current,North,High Value
+31,40774,431,173,1892.57,Good,Current,South,Standard
+59,9302,420,17,306.03,Average,Corporate,Central,Risky
+46,27391,496,69,4941.34,Good,Corporate,North,High Value
+18,9611,781,115,3167.89,Good,Current,West,Standard
+21,14372,338,79,723.25,Bad,Savings,South,Risky
+49,29312,811,14,4958.51,Bad,Corporate,West,Standard
+50,19080,773,175,237.6,Bad,Current,Central,Risky
+66,85618,460,268,6093.97,Average,Investment,East,Standard
+43,117945,588,118,987.79,Average,Investment,West,Standard
+34,113397,499,298,908.64,Bad,Corporate,East,Risky
+56,101213,827,187,1246.19,Bad,Savings,South,High Value
+40,25874,802,56,6722.66,Good,Investment,West,High Value
+49,67537,547,198,4858.32,Good,Investment,West,High Value
+69,78914,682,16,5613.57,Average,Investment,South,Standard
+32,6597,517,287,2795.49,Average,Savings,South,Standard
+30,16600,386,54,2367.46,Good,Savings,North,Risky
+19,8747,381,268,1656.7,Bad,Corporate,Central,Risky
+36,84415,361,86,3374.92,Good,Corporate,West,Standard
+41,83553,799,28,3871.76,Average,Investment,West,High Value
+62,29815,341,21,4429.79,Average,Savings,South,Risky
+41,89500,311,284,1814.69,Good,Current,South,Standard
+28,99348,414,47,6641.61,Good,Investment,Central,High Value
+39,110736,517,4,1204.91,Good,Corporate,South,Standard
+32,29714,405,249,6760.26,Average,Savings,East,Standard
+27,23890,827,162,123.7,Bad,Corporate,East,Risky
+58,66509,771,201,3378.26,Good,Corporate,East,High Value
+44,66824,686,100,2346.91,Average,Savings,East,Standard
+26,9725,525,70,3154.88,Average,Investment,Central,Risky
+69,48205,780,162,4003.24,Average,Savings,West,Standard
+45,25684,707,172,3060.41,Good,Investment,East,Standard
+18,96861,756,140,2915.63,Good,Corporate,South,High Value
+34,62911,320,137,5134.41,Bad,Savings,East,Standard
+48,103078,502,65,4807.42,Average,Current,Central,Standard
+61,116573,716,197,5836.23,Good,Investment,South,High Value
+27,18092,715,227,1764.71,Average,Current,East,Standard
+54,100918,747,280,4274.51,Average,Investment,West,Standard
+46,44770,811,171,4104.66,Bad,Savings,South,Standard
+35,30457,384,39,2600.77,Good,Current,South,Risky
+64,76667,466,6,3412.68,Good,Savings,West,Standard
+55,116565,683,173,2210.2,Average,Investment,South,Standard
+56,95751,767,150,1010.07,Average,Investment,East,High Value
+66,67894,371,210,1512.33,Bad,Investment,South,Standard
+23,66305,820,85,756.49,Bad,Investment,East,High Value
+57,17612,772,252,4787.83,Bad,Corporate,West,Standard
+29,107841,557,20,4631.88,Bad,Investment,North,Standard
+31,83627,574,256,6655.23,Bad,Current,West,Standard
+61,105639,319,32,5113.16,Bad,Investment,East,Standard
+27,42089,789,259,383.28,Average,Savings,Central,Standard
+37,100295,789,233,6192.03,Bad,Corporate,West,High Value
+32,116558,625,2,6041.47,Average,Current,Central,Standard
+48,57137,828,226,3114.38,Average,Corporate,Central,Standard
+24,5559,388,283,4109.32,Good,Corporate,East,High Value
+58,71249,785,69,6833.03,Average,Corporate,East,High Value
+27,42361,649,253,3735.48,Average,Savings,North,Standard
+27,85720,383,143,6339.15,Bad,Corporate,South,Standard
+65,20261,686,23,599.61,Average,Corporate,West,Standard
+56,25372,386,233,1353.54,Bad,Investment,East,Risky
+45,60355,606,174,3096.47,Bad,Savings,West,Standard
+47,102676,453,158,4101.6,Bad,Current,Central,Standard
+54,103560,739,285,5717.27,Good,Current,South,High Value
+20,62920,563,17,6918.07,Bad,Current,North,Standard
+67,117878,720,43,2734.18,Average,Savings,West,Standard
+60,37544,792,154,350.96,Bad,Current,South,Standard
+32,5037,710,230,5612.18,Bad,Savings,North,Standard
+38,48032,472,224,4238.58,Bad,Investment,West,Standard
+69,83233,303,216,1405.83,Good,Investment,South,Standard
+54,46420,771,55,3473.9,Average,Savings,East,Standard
+29,119234,409,30,5201.33,Good,Current,West,High Value
+21,102243,336,58,5397.47,Average,Savings,South,Standard
+64,96552,330,234,3507.34,Good,Savings,North,Standard
+26,39600,680,106,2150.4,Average,Corporate,South,Standard
+56,53285,567,190,6816.72,Good,Savings,East,High Value
+59,67008,310,17,4650.27,Bad,Corporate,West,Standard
+45,94520,643,225,2869.5,Good,Investment,West,Standard
+40,10167,843,166,1977.63,Good,Corporate,West,Standard
+62,5432,465,70,5123.1,Bad,Savings,East,Risky
+57,74687,641,53,1710.44,Bad,Investment,North,Standard
+61,118216,781,244,1218.54,Average,Corporate,West,High Value
+39,76947,318,75,3718.24,Average,Savings,North,Standard
+41,101324,483,34,2044.11,Average,Investment,South,Standard
+68,55903,844,266,4409.76,Good,Corporate,North,High Value
+43,97159,309,299,843.21,Average,Savings,North,Standard
+47,59149,491,120,4591.49,Good,Savings,West,High Value
+50,92640,619,24,1997.41,Good,Current,Central,Standard
+33,61768,774,159,21.7,Average,Current,Central,High Value
+39,65184,726,83,906.01,Average,Corporate,East,Standard
+66,70792,358,113,6536.64,Good,Corporate,East,High Value
+67,38439,735,222,6074.14,Bad,Corporate,Central,Standard
+60,38257,396,165,1650.59,Bad,Savings,South,Risky
+35,110193,795,190,5453.04,Good,Corporate,West,High Value
+24,49674,577,174,4267.83,Average,Savings,West,Standard
+67,56248,564,0,6796.91,Good,Corporate,South,High Value
+43,88602,308,228,2627.77,Good,Savings,South,Standard
+25,50371,756,85,4776.6,Average,Savings,Central,Standard
+23,103282,572,61,463.48,Bad,Current,East,Risky
+47,72996,307,205,2785.81,Good,Investment,South,Standard
+56,42297,507,104,6747.45,Bad,Savings,East,Standard
+40,59273,422,290,3782.09,Bad,Corporate,North,Standard
+49,66256,332,249,2029.4,Average,Current,West,Standard
+39,39743,812,12,859.49,Good,Corporate,Central,Standard
+59,73752,503,162,4930.63,Good,Corporate,West,High Value
+60,84803,817,42,4521.1,Bad,Savings,Central,High Value
+62,80117,816,110,2630.09,Bad,Savings,North,High Value
+26,75051,742,204,6657.57,Average,Investment,West,Standard
+48,27076,638,255,174.98,Bad,Savings,North,Risky
+24,115352,737,143,2139.99,Average,Savings,Central,Standard
+26,80312,744,145,6449.07,Good,Investment,South,High Value
